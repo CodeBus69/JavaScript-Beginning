@@ -1,0 +1,15 @@
+* { 
+background-color: black;
+color: white; 
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;}
+
+a { 
+color: orange;
+transition: .25s; }
+a:link { text-decoration: none; }
+a:hover { color: white; }
+
+#div1 { 
+width: 50%;
+text-align; center; }
