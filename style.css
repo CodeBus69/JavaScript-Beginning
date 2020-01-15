@@ -1,15 +1,24 @@
-* { 
-background-color: black;
-color: white; 
-font-family: Arial, Helvetica, sans-serif;
-font-size: 30px;}
+body { 
+	background-color: black;
+	color: white; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;}
 
 a { 
-color: orange;
-transition: .25s; }
+	color: orange;
+	background-color: white;
+	transition: .25s; }
 a:link { text-decoration: none; }
 a:hover { color: white; }
 
 #div1 { 
 width: 50%;
-text-align; center; }
+background-color: white;
+text-align; center;
+position: relative; }
+
+#div1 a { 
+margin: 0;
+position: absolute;
+top:50%;
+ }
