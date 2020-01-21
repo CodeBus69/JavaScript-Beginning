@@ -53,7 +53,9 @@ listaArtykulow.classList.contains('text-center'); -> sprawdza czy istnieje klasa
 
 listaArtykulow.textContent = 'Przykladowy tekst'; -> zmienia tekst elementu 'listaArtykulow' na 'Przykladowy tekst'  
 listaArtykulow.innerHTML = ; -> edycja elementu w HTML 
-listaArtykulow.style.color = white; -> zmiana koloru elementu
+listaArtykulow.style.color = white; -> zmiana koloru elementu  
+
+this -> słowo kluczowe opisujące obiekt, w którym wywołaliśmy daną metodę
 
 
 
